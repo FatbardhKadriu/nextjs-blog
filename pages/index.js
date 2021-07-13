@@ -22,7 +22,7 @@ export default function Home({allPostsData}) {
            student on the last semester at the Norwegian University 
            of Science and Technology (<a href="https://www.ntnu.edu/">NTNU</a>) in Gjøvik, Norway. 
            He is currently a master student in the same university 
-           where he finished bachelor degree, and also working as a <i>Full Stack Developer</i>
+           where he finished bachelor degree, and also working as a <i>Full Stack Developer </i>
            at <a href="https://www.inspire11.com/">Inspire11</a>. He is the author of one paper
            published in Electronics journal  and  has  
            served  as  a  reviewer  for  several papers in IEEE Access journal.</p>
