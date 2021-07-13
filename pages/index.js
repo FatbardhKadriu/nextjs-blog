@@ -17,20 +17,17 @@ export default function Home({allPostsData}) {
         <p style={{textAlign: "justify"}}>
            <span style={{fontWeight: "bolder"}}>FATBARDH KADRIU </span> received the B.S. degree in computer 
            engineering  from  the  Faculty  of  Electrical  and  
-           Computer  Engineering,  University  of Prishtina, 
+           Computer  Engineering (<a href="https://fiek.uni-pr.edu">FIEK</a>),  University  of Prishtina, 
            Kosovo,  in  2020.  He  also  has  been  a full exchange 
            student on the last semester at the Norwegian University 
            of Science and Technology (<a href="https://www.ntnu.edu/">NTNU</a>) in Gjøvik, Norway. 
            He is currently a master student in the same university 
-           where he finished bachelor degree, and also working as a <i>Full Stack Engineer </i>
-           as <a href="https://www.inspire11.com/">Inspire11</a>. He is the author of one paper
+           where he finished bachelor degree, and also working as a <i>Full Stack Developer</i>
+           at <a href="https://www.inspire11.com/">Inspire11</a>. He is the author of one paper
            published in Electronics journal  and  has  
-           served  as  a  reviewer  for  several papers in IEEE Access journal. His research interests 
-           focuses on the data science and artificial intelligence mostly
-           with focus in data mining, NLP, machine learning, deep neural networks and 
-           learning technologies.</p>
+           served  as  a  reviewer  for  several papers in IEEE Access journal.</p>
         <p>
-          (You can find my projects on {' '}
+          (Source code available on {' '}
           <a href="https://github.com/fatbardhkadriu">Github</a>.)
         </p>
       </section>
